@@ -1,0 +1,44 @@
+.link {
+    width: 150px;
+   height: 150px;
+   background: lightgrey;
+   border-radius: 5px;
+   transition: width 2s;
+}
+.link:hover {
+	background-color: red;
+	width: 300px;
+   height: 300px;
+}
+#link2:hover {
+	transform: rotate(180deg);
+	transition: width 3s, height 3s, transform 3s;
+text-align: center;
+width: 300px;
+   height: 300px;
+}
+#link2 {
+	width: 150px;
+   height: 150px;
+   background: lightgrey;
+   border-radius: 5px;
+   transition: width 2s;
+}
+#link3:hover {
+	font-size: 5em;
+	transition: 2s;
+}
+#link4 {
+	color: white;
+	
+}
+#link4:hover {
+color: green;
+transition: 3s;
+}
+
+
+
+
+
+
