@@ -1,0 +1,93 @@
+section {
+	border: 1px solid black;
+  margin: 1px;
+  float: left;
+  width: 380px;
+  padding: 4px;
+
+}
+body {
+	font-size: small;
+	line-height: 1;
+}
+.container {
+	border: 1px solid blue;
+  margin: 20px;
+  float: left;
+  width: 280px;
+  padding: 0.5rem;
+
+}
+td,th {
+	width: 280px;
+padding: 5px;
+}
+table {
+	border-collapse: separate;
+
+}
+header {
+	border-bottom: 15px solid black;
+	border-style: 5px solid black;
+  padding: 0 0 0.25rem 0;
+  margin: 0 0 0.5rem 0;
+ 
+}
+.row10 {
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 10px solid black;
+	border-style: 2px solid black;
+  padding: 0 0 0.25rem 0;
+  margin: 0 0 0.5rem 0;
+}
+.row {
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	border-style: 2px solid black;
+  padding: 0 0 0.25rem 0;
+  margin: 0 0 0.5rem 0;
+}
+.row3 {
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	border-style: 2px solid black;
+  padding: 0 0 0.25rem 0;
+  margin: 0 0 0.5rem 0;
+}
+.row2 {
+	border-top: 5px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	border-style: 2px solid black;
+  padding: 0 0 0.25rem 0;
+  margin: 0 0 0.5rem 0;
+}
+td {
+	text-align: right;
+}
+	th, td {
+  border-bottom: 2px solid lightgrey;
+}
+
+#row33, #row66, #row99 {
+	border-top: 7px solid black;
+	border-bottom: 2px solid black;
+}
+
+#row12, #row21, #row30 {
+	border-bottom: 1px solid black;
+}
+#row27, #row45, #row54 {
+	border-bottom: 1px solid black;
+}
+#row300, #row600, #row900 {
+	border-bottom: 10px solid black;
+}
+
